@@ -98,7 +98,7 @@ body {
 }
 
 .btn-primary:hover {
-  background-color: #444;
+  background-color: white;
 }
 
 .form-check-input {
@@ -107,7 +107,7 @@ body {
 }
 
 .form-check-label {
-  margin-left: 2rem;
+  margin-left: 4rem;
   cursor: pointer;
 }
 
