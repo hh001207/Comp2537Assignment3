@@ -139,7 +139,7 @@ body {
 }
 
 .form-check-label:hover {
-  color: #fff;
+  color: grey;
 }
 
 #typeFilters {
