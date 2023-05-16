@@ -12,9 +12,9 @@ body {
 }
 
 .pokeCard {
-  width: 200px;
-  height: 200px;
-  margin: 10px;
+  width: 300px;
+  height: 300px;
+  margin: 15px;
   border: 1px solid #333;
   border-radius: 10px;
   background-color: #333;
