@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: greenyellow;
   color: white;
   font-family: 'Arial', sans-serif;
 }
@@ -107,7 +107,7 @@ body {
 }
 
 .form-check-label {
-  margin-left: 4rem;
+  margin-left: 6rem;
   cursor: pointer;
 }
 
